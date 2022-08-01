@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rabaa I am a software engineer with Asp.net and Sql server working with it for 17 years
 - 👀 I’m interested in making Educational Web Sites for faculities
 - 🌱 I’m currently learning Angular and I finish a project by it
-- 💞️ I’m looking to collaborate on Educational projects
+- 💞️ I’m looking to collaborate on Educational projects as a full stack developer with angular and asp.net and sql server at a free lance jobs or at a retail company
 - 📫 How to reach me you can phone me at +020 01120605362
 
 <!---
